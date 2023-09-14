@@ -31,16 +31,16 @@ public class Graph {
   }
    
   public static void printGraph(Graph g){
-    System.out.println("Vertices...");
+    System.out.println("\n\nVértices do GRAFO: \n");
     for (Vertex v : g.getVertices()) {
       System.out.print(v.getLabel() + " ");
     }
-    System.out.println("");
-    System.out.println("Edges...");
+    
+    System.out.println("\n\nArestas do GRAFO: \n");
     for (Edge e : g.getEdges()) {
-      System.out.println(e);
+      System.out.println("{ " + e + " }");
     }
-    System.out.println("-------------------");
+    System.out.println("\n\n");
   }
  
 }

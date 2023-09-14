@@ -18,8 +18,8 @@ public class Edge {
   @Override
   public String toString() {
     return fromVertex.getLabel() + 
-            " to " + toVertex.getLabel() + 
-            " with weight " + getWeight();
+            " -> " + toVertex.getLabel() + 
+            " com Peso: " + getWeight();
   }
  
   public Vertex getFromVertex() {
