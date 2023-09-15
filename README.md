@@ -7,8 +7,8 @@ O projeto foi feito utilizando Java e ANTLR como pedido no desenvolvimento do me
 
 - Erick Veríssimo Andrade da Silva
 - Daniel Machado Santos Diaz
-- Pacífico Escobar
-- Lucas Tenorio
+- Pacífico Rojas Escobar Hijo
+- Lucas Tenorio Ferraz
 - Bruna Lins
 
 # Imagens de exemplo:
