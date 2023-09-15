@@ -21,5 +21,14 @@ O projeto foi feito utilizando Java e ANTLR como pedido no desenvolvimento do me
 
 ![image](https://github.com/danielmsdiaz/compiladores2023-ANTLR/assets/61604804/1e0a72ec-9afa-4218-b834-0bd6060900c2)
 
+## Deploy
 
-https://replit.com/join/dqbkewiola-erickandrade11
+Para conseguir utilizar o projeto use o comando, acesse o link
+
+ - [Replit](https://replit.com/join/dqbkewiola-erickandrade11)
+
+Após entrar no mesmo, abra o **`Shell`** e utilize o comando a seguir:
+
+```bash
+  source Run.sh
+```
