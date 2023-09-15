@@ -15,11 +15,11 @@ O projeto foi feito utilizando Java e ANTLR como pedido no desenvolvimento do me
 
 ### Gramática do grafo:
 
-![image](https://github.com/danielmsdiaz/compiladores2023-ANTLR/assets/61604804/7562e9c1-7a60-47ca-85f0-ce4cd0827a49)
+![image](https://github.com/danielmsdiaz/compiladores2023-ANTLR/assets/61604804/1e0a72ec-9afa-4218-b834-0bd6060900c2)
 
 ### Arquivo que será lido:
 
-![image](https://github.com/danielmsdiaz/compiladores2023-ANTLR/assets/61604804/1e0a72ec-9afa-4218-b834-0bd6060900c2)
+![image](https://github.com/danielmsdiaz/compiladores2023-ANTLR/assets/61604804/7562e9c1-7a60-47ca-85f0-ce4cd0827a49)
 
 ## Deploy
 
