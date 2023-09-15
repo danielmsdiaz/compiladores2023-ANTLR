@@ -23,12 +23,16 @@ O projeto foi feito utilizando Java e ANTLR como pedido no desenvolvimento do me
 
 ## Deploy
 
-Para conseguir utilizar o projeto use o comando, acesse o link
+Para conseguir utilizar o projeto acesse o link abaixo
 
  - [Replit](https://replit.com/join/dqbkewiola-erickandrade11)
 
-Após entrar no mesmo, abra o **`Shell`** e utilize o comando a seguir:
+Após entrar no link do Replit, abra o **`Shell`** e utilize o comando a seguir:
 
 ```bash
   source Run.sh
 ```
+
+O resultado do comando deve demorar um pouco para ser mostrado no terminal, é preciso esperar um pouco, mas após o tempo esperado o resultado deve ser algo como a imagem abaixo: 
+
+![image](https://github.com/danielmsdiaz/compiladores2023-ANTLR/assets/61604804/bd5a4068-052c-433e-abb8-a67d5063ac21)
